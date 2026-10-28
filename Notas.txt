@@ -1,0 +1,2 @@
+#Pendientes#
+Ejercicio 4 del practico 2 iniciado. Continuar con la creación de la clase PoolConexiones
