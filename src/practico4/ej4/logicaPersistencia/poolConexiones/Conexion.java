@@ -1,4 +1,4 @@
-package practico4.ej4;
+package practico4.ej4.logicaPersistencia.poolConexiones;
 
 import java.sql.Connection;
 
